@@ -1,2 +1,4 @@
 Kerbsplosions
 =============
+
+![](\img\Kerbsplosions.jpg)
